@@ -1,0 +1,8 @@
+HTTP 407
+========
+
+_2014/07/10_
+
+This code is similar to 401 (Unauthorized), but indicates that the client must first authenticate itself with the proxy. The proxy MUST return a Proxy-Authenticate header field.
+
+See [W3.org HTTP 1.1 Status Code Definitions](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
